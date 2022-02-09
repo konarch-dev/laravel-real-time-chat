@@ -1,7 +1,6 @@
-<p align="center"><a href="https://laravel-chat-app-pusher.herokuapp.com/" target="_blank"><img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644406687/port4_w0aawe.png
-" width="400"></a></p>
+<p align="center"><a href="https://laravel-chat-app-pusher.herokuapp.com/" target="_blank"><img src="https://res.cloudinary.com/dj6zxiysv/image/upload/v1644406687/port4_w0aawe.png" width="400"></a></p>
 <p align="center">
-<a href="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"></a>
+<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
 </p>
 
 ### About App
