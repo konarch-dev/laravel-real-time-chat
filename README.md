@@ -13,4 +13,5 @@ In order to run the dependencies you have to install pusher server, npm build wa
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 #### Author of project
-### konarch prasad
+
+## [Konarch Prasad ](https://github.com/konarch-dev)
